@@ -1,0 +1,267 @@
+.custom-select {
+    max-width: 200px; /* taille de la liste */
+  }
+
+.bold {
+    font-weight: bold;
+  }
+
+  .centered-number input[type="number"]::-webkit-inner-spin-button,
+  .centered-number input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .centered-number input[type="number"] {
+    text-align: center;
+  }
+
+  .container-background {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .text-contour {
+    color: #212529; /* Couleur du texte */
+    text-shadow: -1px -1px 1px #ffffff, 1px -1px 1px #ffffff, -1px 1px 1px #ffffff, 1px 1px 1px #ffffff; /* Contour du texte */
+  }
+
+  html, body {
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .wallpaper-Accueil {
+    background-image: url('img/Wallpaper/accueil.jpg');    
+  }
+
+  .wallpaper-Oriflamme {
+    background-image: url('img/Wallpaper/oriflamme.jpg');    
+  }
+
+  .wallpaper-SaboteurlaMineseRebelle {
+    background-image: url('img/Wallpaper/saboteurrebelle.jpg');    
+  }
+
+  .wallpaper-Looterz {
+    background-image: url('img/Wallpaper/looterz.jpg');    
+  }
+
+  .wallpaper-BangleJeudeDs {
+    background-image: url('img/Wallpaper/bang.jpg');    
+  }
+
+  .wallpaper-CodeNames {
+    background-image: url('img/Wallpaper/codenames.jpg');    
+  }
+
+  .wallpaper-UNO {
+    background-image: url('img/Wallpaper/uno.jpg');
+  }
+
+  .wallpaper-OwlyTribe {
+    background-image: url('img/Wallpaper/owlytribes.jpg');    
+  }
+
+  .wallpaper-SaboteurlesMineursContreAttaquent {
+    background-image: url('img/Wallpaper/saboteur2.jpg');
+  }
+  
+  .wallpaper-Perudo {
+    background-image: url('img/Wallpaper/perudo.jpg');
+  }
+
+  .wallpaper-LoveLetter {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-LAubergedesPirates {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-UnanimoParty {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-CarroCombo {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-MotMalin {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-Aztec {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-VillagePillage {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-CestEvident {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-Shamanz {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-SoClover {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-ChampdHonneur {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-LaMascaradedesFrresGrimm {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-LongueurdOnde{
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-PaquetdeChips {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-SilverlAmulette {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  } 
+
+  .wallpaper-6QuiPrend {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-WelcometotheDungeon {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-HrosLouer {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-SchottenTotten {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-NotAlone {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-Dix {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-DraculaFiestaSangria {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-LittleTown {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-Diamant {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-PaperDungeons {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-TsunamiIsland {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-CSFiles {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-LesCharlatansdeBelcastel {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-CamelUp {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-DetectiveClub {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-Cerbere {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-Abyss {
+    background-image: url('img/Wallpaper/abyss.jpg');    
+  }
+
+  .wallpaper-DodosRindingDinos {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-TheLastBottleofRum {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+  
+  .wallpaper-BellumMagica {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-TheHunger {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-RedRising {
+    background-image: url('img/Wallpaper/rising.gif');    
+  }
+
+  .wallpaper-Nidavellir {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-Huns {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-MiniMiners {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-DiceForge {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-MrJack {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-3000Truands {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+  
+  .wallpaper-ResArcana {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-Citadelles {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  .wallpaper-LostCities {
+    background-image: url('img/Wallpaper/defaut.jpg');
+  }
+
+  
+
+  
+  
+
+  
+  
+  
+  
